@@ -1,0 +1,16 @@
+.tableIngredients{
+    display: flex;
+    flex-direction: row;
+    justify-content: column ;
+    align-items: center;
+}
+
+.Ingredients{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    color:darkslateblue;
+}
